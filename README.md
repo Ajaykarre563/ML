@@ -1,2 +1,2 @@
 # repo
-Python
+Algorithm
